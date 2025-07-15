@@ -1,10 +1,16 @@
 # <span style="font-family: 'Brush Script MT', cursive; color: #00FFFF; text-shadow: 2px 2px 4px rgba(47, 45, 45, 0.56);">Hello there 👋 I'm Thirumalai Nambi S </span> 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=Aspiring+Data+Analyst;Data+Visualization+Specialist;Insights+Storyteller;Tech+Educator;AI+Enthusiast;" alt="Typing SVG" />
+
+
+
+  
+<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Turning+Data+into+Decisions;Building+Power+BI+Dashboards;Python+%2B+SQL+%3D+Insights;Exploring+Data+with+Curiosity;" alt="Typing SVG" />
+
 </div>
 
----
+
+
 
 ## 🧭 Who Am I
 
