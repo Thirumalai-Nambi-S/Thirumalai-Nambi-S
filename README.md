@@ -11,7 +11,6 @@
 - 📊 Exploring the world of **Data Analysis**, **Interactive Dashboards**, and **BI tools**
 - 🧠 Proficient in **Power BI**, **Python (Pandas, Matplotlib, Seaborn)**, and **SQL** for data storytelling  
 - 🎓 Currently pursuing Engineering at [SPCET](https://www.spcet.ac.in/)  
-- 💡 **Fun Insight:** Anime lover, fluent in Japanese, and obsessed with uncovering patterns in data  
 - 📩 Reach me on [ X ](https://x.com/__Nambii__) As well as [ Mail ]( mailto:thirumalainambi5802@gmail.com)
 
 ---
