@@ -1,25 +1,18 @@
 # <span style="font-family: 'Brush Script MT', cursive; color: #00FFFF; text-shadow: 2px 2px 4px rgba(47, 45, 45, 0.56);">Hello there 👋 I'm Thirumalai Nambi S </span> 
-
-
-
-
   
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Turning+Data+into+Decisions;Building+Power+BI+Dashboards;Python+%2B+SQL+%3D+Insights;Exploring+Data+with+Curiosity;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Turning+Data+into+Decisions;Building+Power+BI+Dashboards;Python+%2B+SQL+%3D+Insights;Exploring+Data+with+Curiosity;" alt="Typing SVG" />
 
 </div>
 
-
-
-
 ## 🧭 Who Am I
 
-- 🎯 **Portfolio:** [thirumalai-nambi-portfolio.netlify.app](https://thirumalai-nambi-portfolio.netlify.app)  
+- 🎯 **Portfolio:** [Portfolio](https://thirumalai-nambi-portfolio.netlify.app)  
 - 📊 Exploring the world of **Data Analysis**, **Interactive Dashboards**, and **BI tools**
 - 🧠 Proficient in **Power BI**, **Python (Pandas, Matplotlib, Seaborn)**, and **SQL** for data storytelling  
 - 🎓 Currently pursuing Engineering at [SPCET](https://www.spcet.ac.in/)  
 - 💡 **Fun Insight:** Anime lover, fluent in Japanese, and obsessed with uncovering patterns in data  
-- 📩 Reach me on [X / Twitter](https://x.com/__Nambii__)
+- 📩 Reach me on [ X ](https://x.com/__Nambii__)
 
 ---
 
@@ -49,7 +42,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Sales Dashboard](#) | Power BI Dashboard analyzing sales KPIs and trends | Power BI, DAX, SQL |
-| [Customer Segmentation](#) | Data analysis to segment customers for targeted marketing | Python (Pandas, Matplotlib), SQL |
+| [Notes Summarizer AI](https://github.com/Thirumalai-Nambi-S/Notes-Summarizer-AI) |AI-powered tool that converts long-form text or lecture notes into concise, structured summaries | Python (Transformers, Hugging Face, Streamlit) |
 | [AI Chatbot](https://github.com/Thirumalai-Nambi-S/Chatbot) | Conversational AI with NLP capabilities | Python, TensorFlow, NLTK |
 
 </div>
@@ -84,7 +77,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+
 </div>
 
 ---
@@ -113,8 +106,7 @@
   <img src="https://img.shields.io/badge/Apple-M1-ff3c00?style=for-the-badge&logo=apple&logoColor=white" alt="Apple M1 Chip"/>
   <img src="https://img.shields.io/badge/RAM-8GB-9cf?style=for-the-badge" alt="RAM"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  
 </div>
 
 <div align="center">
